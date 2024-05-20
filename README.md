@@ -5,7 +5,7 @@
 📝 Descrição do Projeto
 Desenvolvimento de projeto de front end de uma aplicação web com tela de login e uma página de perfil protegida apenas para quem possui credenciais. Feito através do consumo de uma API externa utilizando Axios, em uma estrutura de React + Typescript com estilização em Tailwind, e validação de formulário em Formik. Contém ainda alguns testes de componente utilizando React Testing Library.
 
- 🔗[Deploy](https://labeddit-front-gzrqi60sj-marcela-celani.vercel.app/login)
+ 🔗[Deploy](https://b2bit-task.vercel.app)
 
 
 ## Informação Geral
@@ -63,4 +63,4 @@ npm install
 npm run dev
 ```
 
-4. Ou acesse diretamente utilizando este: 🔗[Link do Deploy](https://labeddit-front-gzrqi60sj-marcela-celani.vercel.app/login)
+4. Ou acesse diretamente utilizando este: 🔗[Link do Deploy](https://b2bit-task.vercel.app)
