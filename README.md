@@ -1,6 +1,6 @@
 # b2bit-task
 
-# 💻 Website - LABEDDIT - FRONT END
+# 💻 Website - B2BIT - FRONT END
 
 📝 Descrição do Projeto
 Desenvolvimento de projeto de front end de uma aplicação web com tela de login e uma página de perfil protegida apenas para quem possui credenciais. Feito através do consumo de uma API externa utilizando Axios, em uma estrutura de React + Typescript com estilização em Tailwind, e validação de formulário em Formik. Contém ainda alguns testes de componente utilizando React Testing Library.
