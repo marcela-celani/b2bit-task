@@ -47,7 +47,7 @@ Este projeto possui 2 telas (páginas) interativas:
 
 1. Clone este repositório:
 ```
-git clone https://github.com/marcela-celani/labeddit-front-end.git
+git clone https://github.com/marcela-celani/b2bit-task
 ```
 
 2. Instale as dependências:
