@@ -8,4 +8,7 @@ export default defineConfig({
       '@': '/src',
     },
   },
+  build: {
+    outDir: 'dist',  // A pasta de saída para os arquivos de produção
+  },
 });
